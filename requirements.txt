@@ -205,3 +205,6 @@ websockets==12.0
 wrapt==1.16.0
 yarl==1.9.4
 zipp==1.0.0
+Flask==2.0.1
+Flask-SQLAlchemy==2.5.1
+psycopg2-binary==2.9.1
